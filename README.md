@@ -8,7 +8,7 @@
 * ⚙️ btw I use **NixOS**
 * ⌨️ and of course, **Neovim** runs my life
 
-![react](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![react](https://img.shields.io/badge/react-20242a?&style=for-the-badge&logo=react&logoColor=2596be&textColor=2596be)
 ![nixos](https://img.shields.io/badge/nixos-A4B6E1?&style=for-the-badge&logo=nixos&logoColor=white&textColor=white)
 ![docker](https://img.shields.io/badge/docker-384d54?&style=for-the-badge&logo=docker&logoColor=white)
 ![linux](https://img.shields.io/badge/linux-FA7343?&style=for-the-badge&logo=linux&logoColor=white)
