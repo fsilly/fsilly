@@ -17,7 +17,9 @@
 
 ### be me
 > 2019 :
+
 > \*memory blur\*
+
 > 2026 : 💻 My `life` runs on programming now
  
 ![image](https://github.com/juxtopposed/juxtopposed/assets/115173648/f8006608-d227-4fcf-802f-216db800beb9)
