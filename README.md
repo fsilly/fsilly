@@ -22,7 +22,7 @@
 
 > 2026 : 💻 My **entire** life `runs` on programming now **wtf**
  
-![image](https://github.com/juxtopposed/juxtopposed/assets/115173648/f8006608-d227-4fcf-802f-216db800beb9)
+![image](https://media1.tenor.com/m/GyNaytpbo2QAAAAd/konata-potyi.gif)
 
 ---
 
