@@ -15,7 +15,7 @@ real me footage
 ### `<div text-align="center">`**Me programming**`</div>`
 ---
 
-**I am working really hard to replace windows in our public institutions <3**
+**I am working really hard to replace ~~w*ndows~~ in our public institutions 😐**
 
 > **Full time FOSS developer**
 
