@@ -1,5 +1,5 @@
 
-# Hello you ! 🤏 I am fsilly <3
+# <div align="center" style="font-size=32px; font-weight=bold">Hello you ! 🤏 I am fsilly <3</div>
 
 I like to code.
  
@@ -12,10 +12,10 @@ real me footage
 > .
 > .
 
-### `<div text-align="center">`**Me programming**`</div>`
+### <div align="center" style="font-size:22px; font-weight:bold">`<div align="center">`Me programming`</div>`</div>
 ---
 
-**I am working really hard to replace ~~w*ndows~~ in our public institutions 😐**
+**I am working really hard to replace ~~w*ndows~~ in our public institutions 😇**
 
 > **Full time FOSS developer**
 
@@ -34,7 +34,7 @@ real me footage
 > .
 > .
 
-### `<div text-align="center">`**Be me**`</div>`
+### <div align="center" style="font-size:22px; font-weight:bold">`<div text-align="center">`**Be me**`</div>`</div>
 ---
 
 > 2019 : 🌷
