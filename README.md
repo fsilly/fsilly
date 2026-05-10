@@ -1,5 +1,5 @@
 
-# <div align="center" style="font-size=32px; font-weight=bold">🫱 Hello you ! I am fsilly 🥀</div>
+# <div align="center" style="font-size=32px; font-weight=bold">🫲 Hello you ! I am fsilly 🥀</div>
 
 I like to code.
  
