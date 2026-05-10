@@ -1,5 +1,5 @@
 
-# <div align="center" style="font-size=32px; font-weight=bold">Hello you ! 🤏 I am fsilly <3</div>
+# <div align="center" style="font-size=32px; font-weight=bold">🫱 Hello you ! I am fsilly 🥀</div>
 
 I like to code.
  
@@ -15,7 +15,7 @@ real me footage
 ### <div align="center" style="font-size:22px; font-weight:bold">`<div align="center">`Me programming`</div>`</div>
 ---
 
-**I am working really hard to replace ~~w*ndows~~ in our public institutions 😇**
+**I am working really hard to replace ~~w*ndows~~ from our public institutions 😇**
 
 > **Full time FOSS developer**
 
@@ -34,14 +34,14 @@ real me footage
 > .
 > .
 
-### <div align="center" style="font-size:22px; font-weight:bold">`<div text-align="center">`**Be me**`</div>`</div>
+### <div align="center" style="font-size:22px; font-weight:bold">`<div align="center">`**Be me**`</div>`</div>
 ---
 
-> 2019 : 🌷
+> 2019 : 
 
 > *\*memory blurs\**
 
-> 2026 : My **entire** life runs on linux. 
+> 2026 : My **entire** life runs on linux 🥀
  
 ![image](https://media1.tenor.com/m/GyNaytpbo2QAAAAd/konata-potyi.gif)
 
