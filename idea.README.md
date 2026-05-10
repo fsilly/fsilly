@@ -14,7 +14,7 @@ I’ve been coding since the age of 12. Early on I joined a developer team
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=fsilly&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=NathanFallet&theme=tokyonight&hide_border=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=fsilly&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanFallet&include_all_commits=true&count_private=true&theme=tokyonight&langs_count=6&hide_border=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fsilly&include_all_commits=true&count_private=true&theme=tokyonight&langs_count=6&hide_border=true&layout=compact)
 
